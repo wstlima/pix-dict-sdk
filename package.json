@@ -1,11 +1,8 @@
 {
   "name": "pix-dict-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js SDK for pix payment gateway",
-  "main": "./lib/index.js",
-  "bin": {
-    "pix-dict-sdk": "bin/pix-dict-module.js"
-  },
+  "main": "index.js",
   "keywords": [
     "pix-dict",
     "pix-dict-node",
