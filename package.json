@@ -1,0 +1,22 @@
+{
+  "name": "pix-dict-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for pix payment gateway",
+  "main": "./lib/index.js",
+  "bin": {
+    "pix-dict-sdk": "bin/pix-dict-module.js"
+  },
+  "keywords": [
+    "pix-dict",
+    "pix-dict-node",
+    "pix-dict-node-sdk",
+    "pix-dict-api"
+  ],
+  "author": "Wellington Lima",
+  "license": "ISC",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wstlima/pix-dict-sdk.git"
+  }
+}
